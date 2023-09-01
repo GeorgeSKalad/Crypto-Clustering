@@ -7,7 +7,7 @@ The analysis is performed using both the original data and data reduced through 
 Before running the code, ensure you have the following installed:
 - Python 
 - Jupyter Notebook
-- Required Python libraries (Pandas, hvPlot, scikit-learn)
+- Required Python libraries (Pandas, hvPlot, scikit-learn,os)
 
 ## Code Overview
 
@@ -16,6 +16,8 @@ Before running the code, ensure you have the following installed:
 - Elbow curves are used to determine the optimal number of clusters (`k`).
 
 ## Results
+
+
 
 The analysis yields the following insights:
 
